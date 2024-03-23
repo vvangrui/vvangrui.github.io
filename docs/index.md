@@ -1,0 +1,2 @@
+![welcome](/image/kamuy.jpg)
+

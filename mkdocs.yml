@@ -1,0 +1,5 @@
+site_name: My Docs
+theme: material
+nav:
+  - 主页: index.md
+  - 格式: first-send.md
