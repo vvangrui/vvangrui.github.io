@@ -1,4 +1,4 @@
-![welcome](../image/kamuy.jpg)
+![welcome](/image/kamuy.jpg)
 
 
 
