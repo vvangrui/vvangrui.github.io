@@ -32,5 +32,3 @@ this is a ![picture](../image/kamuy.jpg "kamuy")
 
 
 
-
-
